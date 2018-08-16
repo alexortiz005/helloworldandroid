@@ -1,0 +1,10 @@
+#Wed Aug 15 22:21:40 COT 2018
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/home/alexis/AndroidStudioProjects/InstantApps-HelloWorld/installed/build/intermediates/transforms/dexMerger/debug/13
+base.1=/home/alexis/AndroidStudioProjects/InstantApps-HelloWorld/installed/build/intermediates/transforms/dexMerger/debug/12
+base.0=/home/alexis/AndroidStudioProjects/InstantApps-HelloWorld/installed/build/intermediates/transforms/dexMerger/debug/11
